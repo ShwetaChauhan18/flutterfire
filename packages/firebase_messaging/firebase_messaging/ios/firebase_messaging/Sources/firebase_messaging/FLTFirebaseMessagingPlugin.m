@@ -524,6 +524,7 @@ NSString *const kMessagingPresentationOptionsUserDefaults =
       completionHandler(UIBackgroundFetchResultNoData);
     }
 
+
     return YES;
   //}  // if (userInfo[@"gcm.message_id"])
   //return NO;
