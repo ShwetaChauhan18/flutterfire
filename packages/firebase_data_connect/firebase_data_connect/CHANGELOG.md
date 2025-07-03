@@ -1,3 +1,24 @@
+## 0.1.5+3
+
+ - Update a dependency to the latest release.
+
+## 0.1.5+2
+
+ - Update a dependency to the latest release.
+
+## 0.1.5+1
+
+ - **FIX**(fdc): fix an issue where if null is set, an empty value was being sent ([#17373](https://github.com/firebase/flutterfire/issues/17373)). ([53320dc6](https://github.com/firebase/flutterfire/commit/53320dc60fa5639051fbb77d21ed493f23381273))
+
+## 0.1.5
+
+ - **FIX**(data_connect): avoid calling toJson on raw JSON map or null object ([#17356](https://github.com/firebase/flutterfire/issues/17356)). ([7bd63691](https://github.com/firebase/flutterfire/commit/7bd63691ffa7405d24ea4545bd1ac7f8971175b3))
+ - **FEAT**(fdc): Included platform detection changes ([#17308](https://github.com/firebase/flutterfire/issues/17308)). ([e53c7071](https://github.com/firebase/flutterfire/commit/e53c7071e2566b7e016fda312d92dd03fcb1bc9e))
+
+## 0.1.4+1
+
+ - Update a dependency to the latest release.
+
 ## 0.1.4
 
  - **FEAT**(fdc): Implemented partial errors ([#17148](https://github.com/firebase/flutterfire/issues/17148)). ([e97eb0b2](https://github.com/firebase/flutterfire/commit/e97eb0b229390afa01e61b9e7bfbd496b51cc80a))
